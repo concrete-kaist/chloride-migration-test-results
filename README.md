@@ -6,8 +6,8 @@ This dataset contains experimental results on the **Chloride Diffusivity** and *
 
 ## 2. Dataset Description
 The repository includes two main data files in CSV format:
-- `concrete_data.csv`: Experimental results for concrete specimens at 28 and 90 days.
-- `mortar_data.csv`: Experimental results for mortar specimens at 28 and 90 days.
+- `concrete.csv`: Experimental results for concrete specimens at 28 and 90 days.
+- `mortar.csv`: Experimental results for mortar specimens at 28 and 90 days.
 
 Key Features (Columns)
 - **ID**: Sample identifier (e.g., C60, M50, ISO-S)
