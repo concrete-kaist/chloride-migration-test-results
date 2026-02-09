@@ -9,7 +9,7 @@ The repository includes two main data files in CSV format:
 - `concrete_data.csv`: Experimental results for concrete specimens at 28 and 90 days.
 - `mortar_data.csv`: Experimental results for mortar specimens at 28 and 90 days.
 
-### Key Features (Columns)
+Key Features (Columns)
 - **ID**: Sample identifier (e.g., C60, M50, ISO-S)
 - **w/b**: Water-to-Binder ratio
 - **s/b**: Sand-to-Binder ratio
@@ -19,11 +19,11 @@ The repository includes two main data files in CSV format:
 - **Strength_mean**: Mean compressive strength ($MPa$)
 
 ## 3. Experimental Conditions
-- **Materials**:
+**Materials**:
 - Type I Portland Cement (CM33) or Fly Ash (FA33) 20% of binder substitution
 - Fine Aggregate: Sand provided by SGS Korea
 - Coarse Aggregate: Gravel (for concrete specimens)
-- **Curing**: Water curing at $20 \pm 2^{\circ}C$
+**Curing**: Water curing at $20 \pm 2^{\circ}C$
 
 ## 4. Scientific Contribution
 The dataset provides a correlation between mortar and concrete diffusivity, which can be used to develop predictive models for concrete durability. Note that the w/b and s/b are the same for a pair of concrete and mortar samples.
