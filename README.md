@@ -13,9 +13,9 @@ Key Features (Columns)
 - **ID**: Sample identifier (e.g., C60, M50, ISO-S)
 - **w/b**: Water-to-Binder ratio
 - **s/b**: Sand-to-Binder ratio
-- **Water, Cement, FlyAsh, Sand, Gravel**: Mix proportions by weight (Concrete by kg/m^3, Mortar by g)
+- **Water, Cement, FlyAsh, Sand, Gravel**: Mix proportions by weight (Concrete by kg/m^3^, Mortar by g)
 - **Age**: Curing period before testing (28 or 90 days)
-- **Diffusivity_mean**: Mean chloride diffusivity coefficient (10^{-12} m^2/s)
+- **Diffusivity_mean**: Mean chloride diffusivity coefficient (10^{-12}^ m^2^/s)
 - **Strength_mean**: Mean compressive strength (MPa)
 
 ## 3. Experimental Conditions
